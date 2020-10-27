@@ -3,7 +3,7 @@ class Constants(object):
     # key -> val
     # "milk-300ml" -> [Protien, carbs, fat, calories]
     NUTRIENTS_DICT = {
-        "milk-300": [9.45, 15.3, 18, 261], #ml
+        "milk-300": [9.45, 15.3, 1.2, 261], #ml
         # take boiled and omellete same
         "omellete-2": [12, 1.2, 10, 150],
         "wholeeggs-2": [12, 1.2, 10, 150], 
