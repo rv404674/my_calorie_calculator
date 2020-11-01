@@ -7,4 +7,3 @@ git clone https://github.com/rv404674/my_calorie_calculator.git
 cd calorie_calc 
 python3 calculator/calorie_calculator.py
 ```
-
